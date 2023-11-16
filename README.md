@@ -1,4 +1,4 @@
-# Research Report: Structure Learning in Bayesian Networks with Latent Variables
+# Expectation Maximization For Ensemble Structure Learning in the Presence of Latent Variables using Gaussian Mixture Models and Static Bayesian Networks
 
 
 ## Overview
