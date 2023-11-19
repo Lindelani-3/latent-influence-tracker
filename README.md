@@ -35,4 +35,5 @@ Figure/Table Description
 
 
 ## Conclusions
-[Provide a brief conclusion of your research, summarizing the outcomes and any potential impact on the field.]
+
+Structure learning has demonstrated that it is not only possible to identify these hidden patterns but also to do so with a degree of accuracy that supports clinical and research applications. By employing heuristic combinatorial optimization, we have learned that these latent variables can be systematically approached and understood, allowing us to infer possible interactions between them. Notably, the Bayesian approach to computation facilitates the incorporation of prior knowledge into our models, ensuring that the reasoning behind our findings is closely aligned with current scientific understanding. Also, the power of interpretability holds immense value, as it allows for healthcare professionals to make decisions that are informed by a clear rationale.
