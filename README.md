@@ -34,6 +34,8 @@ Our models Ensemble II and III show us that increased complexity does not direct
 
 Trees seemingly capture the best initial information, Informed edges that can form Random Forests seem to add bias, and having no initial structure lacks initial direction for our Hill Climbing Search.
 
+![Learned AD Ensemble III Graph](https://github.com/Lindelani-3/latent-influence-tracker/assets/99859713/17e9ae6c-3f5d-4790-a55c-4d3682c7064b)
+
 
 
 ## Conclusions
