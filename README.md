@@ -1,5 +1,6 @@
 # Expectation Maximization & Ensemble Structure Learning in the Presence of Latent Variables using Gaussian Mixture Models and Static Bayesian Networks
 
+![Presentation poster](https://github.com/Lindelani-3/latent-influence-tracker/assets/99859713/f354695e-f1d0-4445-9afc-333e42500495)
 
 ## Overview
 This repository contains the research report titled "Expectation Maximization for Ensemble Structure Learning in the Presence of Latent Variables using Gaussian Mixture Models and Static Bayesian Networks". The study focuses on the challenges and methodologies of structure learning in Bayesian networks, especially in the context of latent variables. The research simulates data reflective of Alzheimer’s Disease interactions, providing valuable insights for the field.
