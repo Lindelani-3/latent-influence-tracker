@@ -1,4 +1,4 @@
-# Expectation Maximization For Ensemble Structure Learning in the Presence of Latent Variables using Gaussian Mixture Models and Static Bayesian Networks
+# Expectation Maximization & Ensemble Structure Learning in the Presence of Latent Variables using Gaussian Mixture Models and Static Bayesian Networks
 
 
 ## Overview
@@ -27,11 +27,13 @@ Our investigation is aimed at learning model structures M from a dataset D, whic
 Figure 1: Graphical representation of the ground truth model used in the study.
 
 ## Results
-[Summarize the key results of your study, highlighting any significant findings or conclusions.]
 
-Key Figures and Tables
-Figure/Table Title
-Figure/Table Description
+Basic Hill CLimbing Search seems to be the most reliable for learning the structure, implementing Tabu Search provides slightly better complexity-efficiency trade-off.
+
+Our models Ensemble II and III show us that increased complexity does not directly correlate to better performance.
+
+Trees seemingly capture the best initial information, Informed edges that can form Random Forests seem to add bias, and having no initial structure lacks initial direction for our Hill Climbing Search.
+
 
 
 ## Conclusions
