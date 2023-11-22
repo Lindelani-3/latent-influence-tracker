@@ -28,6 +28,12 @@ Figure 1: Graphical representation of the ground truth model used in the study.
 
 ## Results
 
+![initial s table](https://github.com/Lindelani-3/latent-influence-tracker/assets/99859713/1fbdc7b8-845a-4d28-8d23-7d75792d6a78)
+
+
+![algo table](https://github.com/Lindelani-3/latent-influence-tracker/assets/99859713/573d92f1-60e3-4023-9b54-89a0c2ea02db)
+
+
 Basic Hill CLimbing Search seems to be the most reliable for learning the structure, implementing Tabu Search provides slightly better complexity-efficiency trade-off.
 
 Our models Ensemble II and III show us that increased complexity does not directly correlate to better performance.
